@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "My Base App",
+    "iconUrl": "https://placehold.co/200x200/0052FF/ffffff?text=B",
+    "homeUrl": "https://project-4ex8v.vercel.app",
+    "imageUrl": "https://placehold.co/1200x630/0052FF/ffffff?text=Coming+Soon",
+    "buttonTitle": "Open App",
+    "splashImageUrl": "https://placehold.co/200x200/0052FF/ffffff?text=B",
+    "splashBackgroundColor": "#0052FF"
+  }
+}
