@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI0MzEyNywidHlwZSI6ImF1dGgiLCJrZXkiOiIweDM1REUyNkQ4Q2IwM2MzQjYwNzQwNjhGRDZiQzdhZDU1MWJiNTAxMDQifQ",
+    "payload": "eyJkb21haW4iOiJwcm9qZWN0LTRleDh2LnZlcmNlbC5hcHAifQ",
+    "signature": "gfogfEsHC507Vjh6phDQsWi6Tm6g7wZBX3mKJRMvHiQqTZBDb6RiZp+6/vB1FHQAcaMdlN5bBaQ8T5mMksHg4hs="
+  },
   "frame": {
     "version": "1",
     "name": "My Base App",
